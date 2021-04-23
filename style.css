@@ -1,0 +1,91 @@
+img{
+  margin-top:100px;
+  border-radius:100%;
+  margin-right:-520px;
+  width:120px
+}
+p1 {
+  color:purple;
+  font-size:18px
+}
+#line{
+  height:7px;
+  background-color:black;
+  width:70px;
+  margin:auto
+}
+h1{
+  font-size:20px;
+}
+#home{
+    text-align: center;
+     width: 100%;
+    height: 100%;
+  width: 100%;
+    height: 100%;
+    opacity:1;
+   height: 400px;
+ background:linear-gradient( #42A5F5 0%, #66BB6A 100%);
+  background-repeat:no-repeat
+}
+#span{
+    font-family: 'courgette', cursive;
+}
+#about{
+  text-align:center;
+ background:pink;
+}
+#menu{
+  list-style: none;
+    position:relative;
+    top:10px;
+    right: 30px;
+    z-index: 10;
+  cursor: pointer;}
+  
+.list:hover {
+    background-color:beige;
+}
+.list {
+    float: right;
+    color: red;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 18px
+}
+p2{
+  color:blue
+}
+html{
+    scroll-behavior: smooth;
+}
+.topics{
+    font-family: fantasy;
+}
+#book{
+    height:400px;
+    width:271.215351812;
+    border-radius: 0px;
+    margin-right: auto;
+}
+.st{
+    text-align:center
+}
+#mahatma_gandhi{
+    margin-top: auto;
+    width:300px;
+    height:225px;
+    border-radius: 0px;
+    margin-right: auto;
+}
+#inspiration{
+    background: linear-gradient(#f57e42 0%, #dff53b 100%)
+}
+#books{
+    background: linear-gradient(#ff6363 0%, #637dff 100%)
+}
+#book{
+    margin-top: auto;
+}
